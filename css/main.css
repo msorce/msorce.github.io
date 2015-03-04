@@ -189,6 +189,7 @@ hr {
 	text-align:center;
 	margin-top:30px;
 	padding-left:0px;
+	padding:100px 0;
 }
 .foot-end {
 	background-image: url("../images/blurred.jpeg");
@@ -199,7 +200,6 @@ hr {
  	min-height: 200px;
 }
 .foot-list li { 
-	padding:100px 0;
 	text-decoration:none;
 	display:inline-block;
 	margin:20px 10px;
