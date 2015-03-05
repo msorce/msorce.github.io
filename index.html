@@ -8,103 +8,15 @@
 	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body>
-	<div class="header-container" data-stellar-background-ratio="0.5">
-		<div class="avatar"></div>
-		<div class="name-title"> Mark Sorce</div>
-		<div class="main-title"> Web Developer</div>
-	</div> 
-	<div class="intro">
-		<div class="container ">
-			<h1 class="list-title">Hi.</h1>
-			<p>I'm Mark, a front end web developer, at work I use HTML5, CSS3, Javascript, jQuery, PHP and XML. I am constantly working on furthering my knowledge in programming, especially Javascript. My current personal projects utilize the MEAN stack,  MongoDB, Expressjs, Angularjs, and Nodejs.</p>
-			<div class="button">VIEW MY R&Eacute;SUM&Eacute;</div>
-			<hr>
-			<h1 class="list-title">Skills</h1>
-			<ul class="language-list">
-				<li>HTML5</li>
-				<li>CSS3</li>
-				<li>Javascript</li>
-				<li>jQuery</li>
-				<li>PHP</li>
-				<li>MySQL</li>
-				<li>SQL</li>
-				<li>XML</li>
-				<li>MongoDB</li>
-			</ul>
-			<hr>
-			<h1 class="list-title">Frameworks</h1>
-			<ul class="language-list">
-				<li>Nodejs</li>
-				<li>Expressjs</li>
-				<li>Angularjs</li>
-				<li>Bootstrap</li>
-			</ul>
-			<hr>
-			<h1 class="list-title">Tools</h1>
-			<ul class="language-list">
-				<li>Sublime Text</li>
-				<li>SCSS</li>
-				<li>Git</li>
-				<li>NPM</li>
-				<li>Bower</li>
-				<li>XOS</li>
-				<li>Windows</li>
-			</ul>
-		</div>
-	</div>
-	<div class="pic-container " data-stellar-background-ratio="0.2">
-		<div class="container">
-			<div class="container2">
-				<ul class="cta-list">
-					<li>
-						<div class="cta"><br>
-							<h4>Clean Code</h4>
-							<p>Constantly improving my code, and consistantly using best practices.</p>
-						</div>
-					</li>
-					<li>
-						<div class="cta"><br>
-							<h4>Craving Knowlege</h4>
-							<p>Always looking for, learning, and utilizing the latest technologies in web development.</p>
-						</div>
-					</li>
-					<li>
-						<div class="cta"><br>
-							<h4>Lorem.</h4>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, aut!</p>
-						</div>
-					</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-	<div class="flxbx">
-		<div class="flxnav">
-		<div class=" nav-button">Home</div>
-		<div class=" nav-button">Work</div>
-		<div class=" nav-button">Contact</div>
-		</div>	
-		<div class="flxchld col col1">Ut ratione amet aperiam incidunt numquam, totam animi commodi illum, harum? Minus, necessitatibus asperiores doloremque quas libero, et quisquam eveniet.</div>
-		<div class="flxchld col col2">Nihil sapiente sed, eius laborum pariatur error laudantium fugit in fugiat. Laborum libero adipisci repudiandae, ipsam architecto necessitatibus reiciendis nam!</div>
-		<div class="flxchld foot"><div> &copy;<script>document.write(new Date().getFullYear())</script> hand coded by Mark Sorce</div>
-		</div>
-	</div>
-	<div class="foot-end">
-		<ul class="foot-list">
-			<li><div class="foot-button">VIEW MY R&Eacute;SUM&Eacute;</div></li> 
-			<li><div class="foot-button">EMAIL ME</div></li> 
-		</ul>
-	</div>
+<body ng-app="app">
+	<header ng-include="'templates/head.html'"></header>
+	<div ui-view></div>
+	<footer ng-include="'templates/foot.html'"></footer>
+	<script src="node_modules/angular/angular.min.js"></script>
+	<script src="node_modules/angular-ui-router/release/angular-ui-router.js"></script>
+	<script src="scripts/app.js"></script>
 	<script type='text/javascript' src="js/jquery-1.11.2.min.js"></script>
 	<script type='text/javascript' src="js/jquery.stellar.min.js"></script>
-	<script>
-	$(document).ready(function(){
-		if ( $(window).width() > 800 ) {
-	    	$.stellar();
-		}
-	});
-
-    </script>
+	<script>$.stellar();</script>
 </body>
 </html>

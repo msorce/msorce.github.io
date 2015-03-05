@@ -189,17 +189,17 @@ hr {
 	text-align:center;
 	margin-top:30px;
 	padding-left:0px;
-	padding:100px 0;
 }
 .foot-end {
 	background-image: url("../images/blurred.jpeg");
 	background-attachment: fixed;
 	background-size: cover;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	margin-bottom: 0px;
  	min-height: 200px;
 }
 .foot-list li { 
+	padding:100px 0;
 	text-decoration:none;
 	display:inline-block;
 	margin:20px 10px;
@@ -218,8 +218,8 @@ hr {
 	border:5px solid #eee;
 
 	}
-
-
+.nav-button a {color:tomato; text-decoration:none;}
+.app-title {min-width: 80%; text-align: center;}
 .flxnav{display:flex; flex-direction:row; width:100%;}
 
 @media (max-width:800px) {
@@ -230,6 +230,7 @@ hr {
 	.cta-list { margin-top:0px; margin-bottom:0px;  }
 	.pic-container { background-repeat: repeat; }
 	.container {width:90%;}
+	.pic-container { min-height: 800px; }
 
 }
 
