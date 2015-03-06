@@ -6,13 +6,15 @@
 		</div>	
 		<h1 class="flxchld app-title">Contact Me</h1>
 		<div class="flxchld col">
-			<form target="_blank" action="//formspree.io/marksorce@gmail.com" method="POST">
-			    <input type="text" name="name" placeholder="Your name">
-			    <input type="email" name="_replyto" placeholder="Your email">
-			    <textarea name="message" placeholder="your message"></textarea>
-			    <input type="submit" value="Send">
+			<form class="contact-form" target="_blank" action="//formspree.io/marksorce@gmail.com" method="POST">
+				<ul class="contact-fields">
+				    <li><input type="text" name="name" placeholder="Your name" required></li>
+					<li><input type="email" name="_replyto" placeholder="Your email" required></li>
+				    <li><textarea name="message" placeholder="your message" required></textarea></li>
+				    <li><input type="submit" value="Send"></li>
+				</ul>
 			</form>
 		</div>
-		<div class="flxchld foot">2015 hand coded by Mark Sorce</div>
+		<div class="flxchld foot">&copy;2015 hand coded by Mark Sorce</div>
 	</div>
 </div>
