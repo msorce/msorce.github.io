@@ -70,6 +70,7 @@ hr {
 	color:#41424F;
 	text-align: center;
 }
+a {text-decoration: none;}
 .foot-button { 
 	padding:10px 0px; 
 	border:solid 5px #41424F; 
