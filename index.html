@@ -19,7 +19,9 @@
 	<script type='text/javascript' src="js/jquery.stellar.min.js"></script>
 	<script>
 	setTimeout(function() {
-      $.stellar()
+		if ($(window).width() > 960) {
+    		$.stellar()
+		}
 	}, 500);
 	</script>
 </body>
