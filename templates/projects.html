@@ -5,6 +5,12 @@
     <h3 class="">{{title}}</h3>
     <p>I am proud to have a part in building the internet, here are some my projects.</p>
   </div>
+  <div class="row">
+    <div class="container">
+      <div class="text-center col-xs-6 alert alert-danger" id="slideprev"><h3>< Previous</h3></div>
+      <div class="text-center col-xs-6 alert alert-danger" id="slidenext"><h3>Next ></h3></div>
+    </div>
+  </div>
 <div class="row">
   <div slick-slider="{dots:false, arrows:false}">
    <div data-id={{$index}}  ng-repeat="slide in slides" class="col-xs-12 well">
@@ -12,16 +18,10 @@
      <h4 class="well alert-success">Duration: {{slide.duration}}</h4>
      <p class="well">{{slide.desc}}</p>
       <ul>
-        <li class="well list-inline text-center col-xs-3 alert-info" ng-repeat="tech in slide.tech">{{tech}}</li>
+        <li class="well list-inline text-center col-xs-4 alert-info" ng-repeat="tech in slide.tech">{{tech}}</li>
       </ul>
    </div>
  </div>
-</div>
-<div class="row">
-  <div class="container">
-    <div class="text-center col-xs-6 alert alert-danger" id="slideprev"><h3>< Previous</h3></div>
-    <div class="text-center col-xs-6 alert alert-danger" id="slidenext"><h3>Next ></h3></div>
-  </div>
 </div>
 <!--
     <ul class="list-inline text-center" slick="'{}'">
