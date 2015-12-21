@@ -1,0 +1,43 @@
+/*custom css*/
+
+.slick-slide {
+  outline: none;
+}
+.navbar-inverse .navbar-nav>li>a:focus {
+  color: #eee;
+}
+.navbar-inverse .navbar-nav>li>a.active {
+  color: #fff;
+}
+.navbar-toggle .icon-bar {
+  transition: ease all .5s;
+}
+.navbar-toggle.animate-menu-icon .icon-bar:first-child {
+  transform: rotate(-225deg);
+  position: relative;
+  top: 6px;
+}
+.navbar-toggle.animate-menu-icon .icon-bar:nth-child(2) {
+  opacity: 0;
+}
+.navbar-toggle.animate-menu-icon .icon-bar:nth-child(3) {
+  transform: rotate(225deg);
+  position: relative;
+  bottom: 6px;
+}
+
+/*.circle {
+    position: absolute;
+    background-color: #fff;
+    border-radius: 100%;
+    height: 1px;
+    width: 1px;
+    opacity:0.5;
+}*/
+
+#slideprev, #slidenext {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  cursor: pointer;
+}

@@ -1,0 +1,140 @@
+{
+  "slides" : [
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"Hydrogen charging station map",
+      "duration": "1 week",
+      "desc": "Created an interactive and responsive map, for m.hyundaiusa.com, showing locations of hydrogen charing stations in california, as well as ones in development ",
+      "tech" : ["HTML", "Javascript", "jQuery", "CSS"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"Vehicle listing page",
+      "duration": "1 week",
+      "desc": "Created the vehicle listing page for vehicle pricing for m.hyundaiusa.com, this was later turned into a template to be used for all vehicles ",
+      "tech" : ["HTML", "Javascript", "jQuery", "CSS"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"NFL countdown timer",
+      "duration": "1 week",
+      "desc": "Built a custom timer that counted down to the 2015 NFL kickoff for hyundaiusa.com",
+      "tech" : ["HTML", "Javascript", "jQuery", "CSS"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"Android Auto page",
+      "duration": "1 month",
+      "desc": "Built the interactive Android Auto page for desktop and mobile, which showcased the Android Auto technology used in some of the vehicles. Includes Application Program Interface implementation using the YouTube API.",
+      "tech" : ["HTML", "CSS", "Javascript", "jQuery", "API"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"Sonata Plugin Hybrid page",
+      "duration": "1 month",
+      "desc": "Built the interactive page showcasing the Sonata Plugin Hybrid, Application Program Inteface implementations, using the Google Maps API, and the YouTube API. This page also made AJAX requests to our .NET REST API.",
+      "tech" : ["HTML", "CSS", "Javascript", "jQuery", "AJAX", "REST", ".NET", "C#"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"Hyundaiusa.com NCAA page",
+      "duration": "1 month",
+      "desc": "Built the interactive NCAA page, where people could download wallpapers of there favorite teams, share the page on social media, share the wallpapers on twitter or instagram, and also sign up to recieve a team cling. This page made AJAX requests to a .NET REST API.",
+      "tech" : ["HTML", "Javascript", "jQuery", "AJAX", "JSON", "REST", ".NET", "C#"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"irvinebmw.com",
+      "duration": "1 month",
+      "desc": "Lead developer for the responsive redesign for irvinebmw.com, converted a desktop only site to be cross device cross browser compatable ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"yarkbmw.com",
+      "duration": "1 month",
+    "desc": "Lead developer for the responsive redesign for yarkbmw.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"sdacuradealers.com",
+      "duration": "1 month",
+  "desc": "Build team developer for the responsive redesign for sdacuradealers.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"jaguarnewportbeach.com",
+      "duration": "1 month",
+    "desc": "Build team developer for the responsive redesign for jaguarnewportbeach.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"jaguarmissionviejo.com",
+      "duration": "1 month",
+    "desc": "Lead developer for the responsive redesign for jaguarmissionviejo.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"hornburgjaguarla.com",
+      "duration": "1 month",
+    "desc": "Lead developer for the responsive redesign for hornburgjaguarla.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"hornburgjaguarsm.com",
+      "duration": "1 month",
+      "desc": "Lead developer for the responsive redesign for hornburglandroversm.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"landrovernewportbeach.com",
+      "duration": "1 month",
+    "desc": "Lead developer for the responsive redesign for landrovernewportbeach.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"landrovermissionviejo.com",
+      "duration": "1 month",
+    "desc": "Lead developer for the responsive redesign for landrovermissionviejo.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"hornburglandroverla.com",
+      "duration": "1 month",
+    "desc": "Lead developer for the responsive redesign for hornburglandroverla.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    },
+    {
+      "url": "#",
+      "src": "images/ajs.png",
+      "title":"hornburglandroversm.com",
+      "duration": "1 month",
+      "desc": "Lead developer for the responsive redesign for hornburglandroversm.com, converted a desktop only site to be cross device cross browser compatable. ",
+      "tech" : ["HTML", "CSS","Bootstrap", "Javascript", "jQuery", "PHP", "XML"]
+    }
+  ]
+}

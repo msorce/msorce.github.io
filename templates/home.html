@@ -1,13 +1,19 @@
-<div class="flxbx">
-	<div class="flxnav">
-		<div class="nav-button"><a ui-sref="home" href="#/">Home</a></div>
-		<div class="nav-button"><a ui-sref="work" href="#/work">Work</a></div>
-		<div class="nav-button"><a ui-sref="contact" href="#/contact">Contact</a></div>
-		</div>	
-		<h1 class="flxchld app-title">My Development</h1>
-		<div class="flxchld col">
-			<p class="app-content">I always try to challenge myself, I do this through my constant research and personal projects. I want to work with a company that strives to advance and grow, while utilizing powerful modern web development technologies.  </p>
-		</div>
-		<div class="flxchld foot"><div> &copy;2015 hand coded by Mark Sorce</div>
-	</div>
+<div class="container">
+<div class="row">
+  <div class="col-md-12">
+  <div class="well">
+    <h3 class="">{{title}}</h3>
+    <p>I'm Mark, a web developer, at work I use HTML, CSS, Javascript, jQuery, C#, .NET, XML, and PhotoShop. I am constantly working on furthering my knowledge in programming, especially Javascript. My current personal projects utilize the MEAN stack, MongoDB, Expressjs, Angularjs, and Nodejs.I always try to challenge myself, I do this through my constant research and personal projects. I want to work with a company that strives to advance and grow, while utilizing powerful modern web development technologies.</p>
+  </div>
+  <h3 class="text-center">Skills</h3>
+    <ul class="list-inline text-center">
+      <!-- track by $index if Duplicates in a repeater are not allowed.-->
+      <li class="col-sm-3 col-xs-4" ng-repeat="skill in skills track by $index" >
+        <div class="alert alert-info">
+        {{skill}}
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
 </div>
