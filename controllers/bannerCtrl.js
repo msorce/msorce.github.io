@@ -3,7 +3,7 @@ angular
   .controller('bannerCtrl', ['$scope', function($scope) {
     $scope.name = "Mark Sorce";
     $scope.email = "marksorce@gmail.com";
-    $scope.resume = "resume";
+    $scope.resume = "https://www.linkedin.com/in/msorce";
     $scope.github = "github.com.msorce";
 
     angular.element(document).ready(function() {
