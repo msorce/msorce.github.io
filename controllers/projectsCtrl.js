@@ -18,7 +18,7 @@ angular
       link: function(scope, el, attrs) {
         setTimeout(function() {
           $(el).slick(scope.$eval(attrs.slickSlider));
-        }, 10)
+        }, 100)
       },
       controller: function($scope) {
         $http({
