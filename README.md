@@ -2,6 +2,7 @@
 Personal website built as a single page application, using, Javascript, Angular, jQuery, parallax.js, and slick.js. 
 
 -angular loaded om manip-
+```javascript
 $scope.$on('$viewContentLoaded', function(event) {
 //Your code goes here.
 });
@@ -11,4 +12,5 @@ $timeout(function() {
 jQuery(window).ready(function() {
 //Your code goes here.
 })
+```
 -------
