@@ -1,7 +1,7 @@
 # updated-portfolio
 Personal website built as a single page application, using, Javascript, Angular, jQuery, parallax.js, and slick.js. 
 
--angular loaded om manip-
+-angular loaded DOM manip-
 ```javascript
 $scope.$on('$viewContentLoaded', function(event) {
 //Your code goes here.
