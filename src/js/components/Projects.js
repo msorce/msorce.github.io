@@ -116,10 +116,10 @@ export default class Projects extends React.Component {
             <div class="row">
               <div class="col-md-6">
                 <article class="">
-                  <label>horburgjaguarsm.com</label>
+                  <label>hornburgjaguarsm.com</label>
                   <div>DURATION: 1 MONTH</div>
                   <div>[HTML, JAVASCRIPT, JQUERY, CSS, BOOTSTRAP, PHP, XML]</div>
-                  <p>Lead developer for the responsive redesign for horburgjaguarsm.com, converted a desktop only site to be cross device cross browser compatable</p>
+                  <p>Lead developer for the responsive redesign for hornburgjaguarsm.com, converted a desktop only site to be cross device cross browser compatable</p>
                 </article>
               </div>
               <div class="col-md-6">
@@ -142,20 +142,20 @@ export default class Projects extends React.Component {
               </div>
               <div class="col-md-6">
                 <article class="">
-                  <label>horburglandroverla.com</label>
+                  <label>hornburglandroverla.com</label>
                   <div>DURATION: 1 MONTH</div>
                   <div>[HTML, JAVASCRIPT, JQUERY, CSS, BOOTSTRAP, PHP, XML]</div>
-                  <p>Lead developer for the responsive redesign for horburglandroverla.com, converted a desktop only site to be cross device cross browser compatable</p>
+                  <p>Lead developer for the responsive redesign for hornburglandroverla.com, converted a desktop only site to be cross device cross browser compatable</p>
                 </article>
               </div>
             </div>
             <div class="row">
               <div class="col-md-6">
                 <article class="">
-                  <label>horburglandroversm.com</label>
+                  <label>hornburglandroversm.com</label>
                   <div>DURATION: 1 MONTH</div>
                   <div>[HTML, JAVASCRIPT, JQUERY, CSS, BOOTSTRAP, PHP, XML]</div>
-                  <p>Lead developer for the responsive redesign for horburglandroversm.com, converted a desktop only site to be cross device cross browser compatable</p>
+                  <p>Lead developer for the responsive redesign for hornburglandroversm.com, converted a desktop only site to be cross device cross browser compatable</p>
                 </article>
               </div>
               <div class="col-md-6">
