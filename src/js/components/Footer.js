@@ -4,7 +4,7 @@ export default class Footer extends React.Component {
     return (
         <footer>
           <div class="container text-center">
-            <em>msorce &copy;2016</em>
+            <em>&copy;2016 marksorce </em>
           </div>
         </footer>
     );
