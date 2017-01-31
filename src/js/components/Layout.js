@@ -14,7 +14,6 @@ export default class Layout extends React.Component {
         <Header />
         <Content />
         <Skills />
-        <Projects />
         <Quote />
         <Footer />
       </div>
