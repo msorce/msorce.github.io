@@ -1,5 +1,5 @@
 # msorce.github.io
-Mark Sorce's Personal Portfolio
+Personal Site
 
 
 http://msorce.github.io/
