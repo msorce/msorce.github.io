@@ -12,9 +12,9 @@ export default class Layout extends React.Component {
     return (
       <div class="root">
         <Header />
-        <Content />
+     {/*<Content />
         <Skills />
-        <Quote />
+        <Quote />*/}
         <Footer />
       </div>
     );
