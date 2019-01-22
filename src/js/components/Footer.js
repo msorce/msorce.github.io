@@ -4,7 +4,7 @@ export default class Footer extends React.Component {
     return (
         <footer>
           <div class="container text-center">
-            <em>&copy;2016 marksorce </em>
+            <em>&copy; {new Date().getFullYear() + ' '}mark sorce </em>
           </div>
         </footer>
     );
