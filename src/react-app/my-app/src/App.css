@@ -11,23 +11,18 @@ body {
   /* cursor: url(images/my-cursor.png), auto; */
 }
 
-.App-logo {
-  animation: float 4s ease-in-out infinite;
-  height: 40vmin;
-  pointer-events: none;
-  
-}
 nav {
   display: flex;
   justify-content: space-between;
   position: absolute;
-  top: 53%;
-  transform: translateY(-53%);
+  top: 56%;
+  transform: translateY(-56%);
   right: 0;
   left: 0;
   margin: 0 auto;
   max-width: 500px;
 }
+
 .particles-container {
   position: absolute;
   top: 0;
@@ -41,7 +36,7 @@ a {
   display: inline-block;
   color: #fff;
   text-decoration: none;
-  animation: float 4s ease-in-out infinite;
+  animation: float 15s ease-in-out infinite;
   letter-spacing: 1.5px;
 }
 a:nth-child(1) {
@@ -59,9 +54,8 @@ a:nth-child(4) {
 
 @media screen and (max-width: 816px) {
 nav {
-
-  top: 70%;
-  transform: translateY(-70%);
+  top: 77%;
+  transform: translateY(-77%);
 }  
 
 }
@@ -76,6 +70,14 @@ nav {
   right: 0;
   bottom: 0;
   margin: 0 auto;
+}
+.name span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  letter-spacing: 11px;
+  padding-top: 20px;
+  display: block;
+  color: #fff;
 }
 
 .App-header {

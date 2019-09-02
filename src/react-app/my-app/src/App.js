@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <Particles className="particles-container" 
         params={particlesOptions}/>
-      <div className="name">MARK SORCE</div>
+      <div className="name">MARK SORCE <span>Software Engineer</span></div>
       <nav>
         <a href="https://goo.gl/3qfvPY" 
           target="_blank" 
