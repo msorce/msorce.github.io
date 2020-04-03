@@ -11,7 +11,7 @@ function App() {
         params={particlesOptions}/>
       <div className="name">MARK SORCE <span>Software Engineer</span></div>
       <nav>
-        <a href="https://goo.gl/3qfvPY" 
+        <a href="https://docs.google.com/document/d/1xi32frF-_M7tyWoeYIrC3rdKgzdyPSanGo4egxVaUA0/edit?usp=sharing" 
           target="_blank" 
           rel="noopener noreferrer">resume</a>
         <a href="https://www.linkedin.com/in/msorce" 
