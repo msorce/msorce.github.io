@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin:auto;background:#f1f2f3;display:block;z-index:1;position:relative" width="1728" height="994" preserveAspectRatio="xMidYMid" viewBox="0 0 1728 994">
+<g transform="translate(864,497) scale(1,1) translate(-864,-497)"><defs>
+<linearGradient id="lg-0.8610092818397233" x1="0" x2="0" y1="0" y2="1">
+  <stop stop-color="#000000" offset="0.3"></stop>
+  <stop stop-color="#000000" offset="0.6499999999999999"></stop>
+  <stop stop-color="#000000" offset="1"></stop>
+</linearGradient>
+<linearGradient id="fg-lg-0.8610092818397233" x1="0" x2="0" y1="0" y2="1">
+  <stop stop-color="#000000" stop-opacity="1" offset="0.3"></stop>
+  <stop stop-color="#000000" stop-opacity="0.66" offset="0.6499999999999999"></stop>
+  <stop stop-color="#000000" stop-opacity="0" offset="1"></stop>
+</linearGradient>
+<style type="text/css">
+  path { fill: none; stroke: #f300ff; stroke-width: 2px }
+</style>
+</defs>
+<rect x="0" y="0" width="1728" height="994" fill="url(#lg-0.8610092818397233)"></rect><path d="M0 298.2 L-12096 994"></path><path d="M13.292307692307693 298.2 L-11896.615384615385 994"></path><path d="M26.584615384615386 298.2 L-11697.23076923077 994"></path><path d="M39.87692307692308 298.2 L-11497.846153846154 994"></path><path d="M53.16923076923077 298.2 L-11298.461538461539 994"></path><path d="M66.46153846153847 298.2 L-11099.076923076924 994"></path><path d="M79.75384615384615 298.2 L-10899.692307692309 994"></path><path d="M93.04615384615384 298.2 L-10700.307692307691 994"></path><path d="M106.33846153846154 298.2 L-10500.923076923076 994"></path><path d="M119.63076923076923 298.2 L-10301.538461538461 994"></path><path d="M132.92307692307693 298.2 L-10102.153846153846 994"></path><path d="M146.2153846153846 298.2 L-9902.76923076923 994"></path><path d="M159.5076923076923 298.2 L-9703.384615384615 994"></path><path d="M172.8 298.2 L-9504 994"></path><path d="M186.09230769230768 298.2 L-9304.615384615385 994"></path><path d="M199.3846153846154 298.2 L-9105.23076923077 994"></path><path d="M212.6769230769231 298.2 L-8905.846153846154 994"></path><path d="M225.96923076923076 298.2 L-8706.461538461539 994"></path><path d="M239.26153846153846 298.2 L-8507.076923076922 994"></path><path d="M252.55384615384617 298.2 L-8307.692307692309 994"></path><path d="M265.84615384615387 298.2 L-8108.307692307692 994"></path><path d="M279.1384615384615 298.2 L-7908.923076923077 994"></path><path d="M292.4307692307692 298.2 L-7709.538461538462 994"></path><path d="M305.7230769230769 298.2 L-7510.153846153846 994"></path><path d="M319.0153846153846 298.2 L-7310.7692307692305 994"></path><path d="M332.3076923076923 298.2 L-7111.384615384615 994"></path><path d="M345.6 298.2 L-6912 994"></path><path d="M358.89230769230767 298.2 L-6712.615384615385 994"></path><path d="M372.18461538461537 298.2 L-6513.2307692307695 994"></path><path d="M385.4769230769231 298.2 L-6313.846153846154 994"></path><path d="M398.7692307692308 298.2 L-6114.461538461538 994"></path><path d="M412.0615384615385 298.2 L-5915.076923076923 994"></path><path d="M425.3538461538462 298.2 L-5715.692307692308 994"></path><path d="M438.6461538461538 298.2 L-5516.307692307692 994"></path><path d="M451.9384615384615 298.2 L-5316.923076923077 994"></path><path d="M465.2307692307692 298.2 L-5117.538461538462 994"></path><path d="M478.5230769230769 298.2 L-4918.153846153846 994"></path><path d="M491.81538461538463 298.2 L-4718.7692307692305 994"></path><path d="M505.10769230769233 298.2 L-4519.384615384615 994"></path><path d="M518.4 298.2 L-4320 994"></path><path d="M531.6923076923077 298.2 L-4120.615384615385 994"></path><path d="M544.9846153846154 298.2 L-3921.2307692307695 994"></path><path d="M558.276923076923 298.2 L-3721.8461538461543 994"></path><path d="M571.5692307692308 298.2 L-3522.461538461539 994"></path><path d="M584.8615384615384 298.2 L-3323.076923076924 994"></path><path d="M598.1538461538462 298.2 L-3123.6923076923085 994"></path><path d="M611.4461538461538 298.2 L-2924.3076923076915 994"></path><path d="M624.7384615384616 298.2 L-2724.923076923076 994"></path><path d="M638.0307692307692 298.2 L-2525.538461538461 994"></path><path d="M651.3230769230769 298.2 L-2326.1538461538457 994"></path><path d="M664.6153846153846 298.2 L-2126.7692307692305 994"></path><path d="M677.9076923076923 298.2 L-1927.3846153846152 994"></path><path d="M691.2 298.2 L-1728 994"></path><path d="M704.4923076923077 298.2 L-1528.6153846153848 994"></path><path d="M717.7846153846153 298.2 L-1329.2307692307695 994"></path><path d="M731.0769230769231 298.2 L-1129.8461538461543 994"></path><path d="M744.3692307692307 298.2 L-930.461538461539 994"></path><path d="M757.6615384615385 298.2 L-731.0769230769238 994"></path><path d="M770.9538461538461 298.2 L-531.6923076923085 994"></path><path d="M784.2461538461539 298.2 L-332.30769230769147 994"></path><path d="M797.5384615384615 298.2 L-132.92307692307622 994"></path><path d="M810.8307692307692 298.2 L66.46153846153902 994"></path><path d="M824.123076923077 298.2 L265.84615384615427 994"></path><path d="M837.4153846153846 298.2 L465.2307692307695 994"></path><path d="M850.7076923076924 298.2 L664.6153846153848 994"></path><path d="M864 298.2 L864 994"></path><path d="M877.2923076923076 298.2 L1063.3846153846152 994"></path><path d="M890.5846153846154 298.2 L1262.7692307692305 994"></path><path d="M903.876923076923 298.2 L1462.1538461538457 994"></path><path d="M917.1692307692308 298.2 L1661.538461538461 994"></path><path d="M930.4615384615385 298.2 L1860.9230769230762 994"></path><path d="M943.7538461538461 298.2 L2060.3076923076915 994"></path><path d="M957.0461538461539 298.2 L2259.6923076923085 994"></path><path d="M970.3384615384615 298.2 L2459.076923076924 994"></path><path d="M983.6307692307693 298.2 L2658.461538461539 994"></path><path d="M996.9230769230769 298.2 L2857.8461538461543 994"></path><path d="M1010.2153846153847 298.2 L3057.2307692307695 994"></path><path d="M1023.5076923076923 298.2 L3256.6153846153848 994"></path><path d="M1036.8 298.2 L3456 994"></path><path d="M1050.0923076923077 298.2 L3655.3846153846152 994"></path><path d="M1063.3846153846155 298.2 L3854.7692307692305 994"></path><path d="M1076.676923076923 298.2 L4054.1538461538457 994"></path><path d="M1089.9692307692308 298.2 L4253.538461538461 994"></path><path d="M1103.2615384615385 298.2 L4452.923076923078 994"></path><path d="M1116.553846153846 298.2 L4652.3076923076915 994"></path><path d="M1129.8461538461538 298.2 L4851.6923076923085 994"></path><path d="M1143.1384615384616 298.2 L5051.076923076922 994"></path><path d="M1156.4307692307693 298.2 L5250.461538461539 994"></path><path d="M1169.7230769230769 298.2 L5449.846153846152 994"></path><path d="M1183.0153846153846 298.2 L5649.2307692307695 994"></path><path d="M1196.3076923076924 298.2 L5848.615384615383 994"></path><path d="M1209.6 298.2 L6048 994"></path><path d="M1222.8923076923077 298.2 L6247.384615384617 994"></path><path d="M1236.1846153846154 298.2 L6446.7692307692305 994"></path><path d="M1249.4769230769232 298.2 L6646.153846153848 994"></path><path d="M1262.7692307692307 298.2 L6845.538461538461 994"></path><path d="M1276.0615384615385 298.2 L7044.923076923078 994"></path><path d="M1289.3538461538462 298.2 L7244.3076923076915 994"></path><path d="M1302.6461538461538 298.2 L7443.6923076923085 994"></path><path d="M1315.9384615384615 298.2 L7643.076923076922 994"></path><path d="M1329.2307692307693 298.2 L7842.461538461539 994"></path><path d="M1342.5230769230768 298.2 L8041.846153846152 994"></path><path d="M1355.8153846153846 298.2 L8241.23076923077 994"></path><path d="M1369.1076923076923 298.2 L8440.615384615383 994"></path><path d="M1382.4 298.2 L8640 994"></path><path d="M1395.6923076923076 298.2 L8839.384615384617 994"></path><path d="M1408.9846153846154 298.2 L9038.76923076923 994"></path><path d="M1422.2769230769231 298.2 L9238.153846153848 994"></path><path d="M1435.5692307692307 298.2 L9437.538461538461 994"></path><path d="M1448.8615384615384 298.2 L9636.923076923078 994"></path><path d="M1462.1538461538462 298.2 L9836.307692307691 994"></path><path d="M1475.446153846154 298.2 L10035.692307692309 994"></path><path d="M1488.7384615384615 298.2 L10235.076923076922 994"></path><path d="M1502.0307692307692 298.2 L10434.461538461539 994"></path><path d="M1515.323076923077 298.2 L10633.846153846152 994"></path><path d="M1528.6153846153845 298.2 L10833.23076923077 994"></path><path d="M1541.9076923076923 298.2 L11032.615384615383 994"></path><path d="M1555.2 298.2 L11232 994"></path><path d="M1568.4923076923078 298.2 L11431.384615384617 994"></path><path d="M1581.7846153846153 298.2 L11630.76923076923 994"></path><path d="M1595.076923076923 298.2 L11830.153846153848 994"></path><path d="M1608.3692307692309 298.2 L12029.538461538461 994"></path><path d="M1621.6615384615384 298.2 L12228.923076923078 994"></path><path d="M1634.9538461538461 298.2 L12428.307692307691 994"></path><path d="M1648.246153846154 298.2 L12627.692307692309 994"></path><path d="M1661.5384615384614 298.2 L12827.076923076922 994"></path><path d="M1674.8307692307692 298.2 L13026.461538461539 994"></path><path d="M1688.123076923077 298.2 L13225.846153846152 994"></path><path d="M1701.4153846153847 298.2 L13425.23076923077 994"></path><path d="M1714.7076923076922 298.2 L13624.615384615383 994"></path><path d="M1728 298.2 L13824 994"></path><g>
+<path d="M0 298.2 L1728 298.2"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 5.2699644970414194" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 303.4699644970414 L1728 303.4699644970414"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 10.539928994082839" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 314.0098934911243 L1728 314.0098934911243"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 15.809893491124258" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 329.81978698224856 L1728 329.81978698224856"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 21.079857988165678" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 350.8996449704142 L1728 350.8996449704142"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 26.3498224852071" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 377.2494674556213 L1728 377.2494674556213"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 31.61978698224852" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 408.8692544378698 L1728 408.8692544378698"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 36.88975147928994" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 445.75900591715975 L1728 445.75900591715975"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 42.15971597633136" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 487.9187218934911 L1728 487.9187218934911"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 47.429680473372784" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 535.3484023668639 L1728 535.3484023668639"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 52.699644970414205" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 588.048047337278 L1728 588.048047337278"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 57.969609467455626" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 646.0176568047336 L1728 646.0176568047336"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 63.23957396449705" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 709.2572307692307 L1728 709.2572307692307"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 68.50953846153847" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 777.7667692307691 L1728 777.7667692307691"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 73.77950295857988" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 851.546272189349 L1728 851.546272189349"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 79.0494674556213" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 930.5957396449703 L1728 930.5957396449703"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 84.31943195266271" begin="0s" dur="3.125s"></animateTransform>
+
+</g><g>
+<path d="M0 1014.915171597633 L1728 1014.915171597633"></path>
+<animateTransform attributeName="transform" type="translate" repeatCount="indefinite" calcMode="linear" keyTimes="0;1" values="0 0;0 89.58939644970413" begin="0s" dur="3.125s"></animateTransform>
+
+</g><rect x="0" y="0" width="1728" height="994" fill="url(#fg-lg-0.8610092818397233)"></rect></g>
+</svg>

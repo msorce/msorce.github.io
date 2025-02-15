@@ -1,0 +1,30 @@
+{
+  "name": "firstname lastname",
+  "companyLogos": [
+    "images/company-logos/acura.png",
+    "images/company-logos/ally-financial.png",
+    "images/company-logos/android-auto.png",
+    "images/company-logos/blueyield.png",
+    "images/company-logos/chico.jpeg",
+    "images/company-logos/disney.png",
+    "images/company-logos/first-american.png",
+    "images/company-logos/google.png",
+    "images/company-logos/honda.png",
+    "images/company-logos/hubspot-logo.png",
+    "images/company-logos/hyundai.png",
+    "images/company-logos/infiniti.png",
+    "images/company-logos/jaguar.png",
+    "images/company-logos/land-rover.png",
+    "images/company-logos/lucas-arts.jpeg",
+    "images/company-logos/mark-and-graham.png",
+    "images/company-logos/nfl.png",
+    "images/company-logos/pb-kids.jpeg",
+    "images/company-logos/pottery-barn-teen.png",
+    "images/company-logos/pottery-barn.png",
+    "images/company-logos/star-wars.png",
+    "images/company-logos/subaru.jpeg",
+    "images/company-logos/toyota.png",
+    "images/company-logos/west-elm.png",
+    "images/company-logos/williams-sonoma.png"
+  ]
+}
